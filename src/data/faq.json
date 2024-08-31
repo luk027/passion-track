@@ -1,0 +1,26 @@
+[
+    {
+      "question": "What is PassionTrack?",
+      "answer": "PassionTrack is an innovative online job portal developed by Luk027. It’s designed to connect job seekers with potential employers in an efficient and user-friendly way. With PassionTrack, users can create profiles, search for job opportunities, and apply directly through the platform. Employers can post job listings, manage applications, and find the right candidates with ease. Built using modern web technologies, including React, Clerk, and Supabase, PassionTrack offers secure authentication, efficient state management, and tools for tracking job applications, making the job search process smoother for everyone involved."
+    },
+    {
+      "question": "How do I post a job?",
+      "answer": "To post a job on PassionTrack, you need to create an account as a recruiter. Once logged in, navigate to the Post a Job section from your dashboard. Fill in the required details about the job, such as the title, description, required qualifications, and application deadline. After reviewing the information, click Submit, and your job listing will be live on the platform for job seekers to view"
+    },
+    {
+      "question": "How can I search for jobs?",
+      "answer": "Searching for jobs on PassionTrack is simple. Start by creating a job seeker profile. Once logged in, use the search bar on the homepage or go to the Job Listings section. You can filter jobs by keyword, location, industry, or company. The results will display relevant job opportunities that match your criteria, and you can click on each listing for more details."
+    },
+    {
+      "question": "How do I apply for a job?",
+      "answer": "Applying for a job on PassionTrack is straightforward. After finding a job that interests you, click on the listing to view the job details. If you meet the requirements, click the Apply Now button. You may need to upload your resume and cover letter if prompted. Once submitted, your application will be sent directly to the employer for review."
+    },
+    {
+      "question": "Can I save jobs to apply later?",
+      "answer": "Yes, you can save job listings by clicking the 'Save Job' button on the job listing. Saved jobs can be accessed from your profile under the 'Saved Jobs' section."
+    },
+    {
+      "question": "How do I track my job applications?",
+      "answer": "PassionTrack provides a My Applications feature in your job seeker dashboard. After applying for a job, you can track the status of your application here. This section will show you details such as whether your application has been viewed, shortlisted, or if there are any updates from the employer. You can easily keep track of all your applications in one place."
+    }
+]
